@@ -1,0 +1,33 @@
+{
+  "scopes": [
+    {
+      "name": "$XSAPPNAME.Viewer",
+      "description": "Viewer"
+    },
+    {
+      "name": "$XSAPPNAME.full",
+      "description": "full"
+    }
+  ],
+  "attributes": [],
+  "role-templates": [
+    {
+      "name": "Viewer",
+      "description": "",
+      "scope-references": [
+        "$XSAPPNAME.Viewer"
+      ],
+      "attribute-references": []
+    },
+    {
+      "name": "full",
+      "description": "",
+      "scope-references": [
+        "$XSAPPNAME.full"
+      ],
+      "attribute-references": []
+    }
+  ],
+  "xsappname": "btp_m_insurance",
+  "tenant-mode": "dedicated"
+}

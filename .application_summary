@@ -1,0 +1,5 @@
+{
+  "ProjectOverviewURL": "https://subaccount-hackathon-kt76po2z.launchpad.cfapps.us10.hana.ondemand.com/lcapbtp_m_insurance.btp_m_insuranceLaunchpad-1.0.0",
+  "DeployedUTCTime": "2024-06-11T01:30:22.672Z",
+  "ApplicationLogURL": "https://logs.cf.us10-001.hana.ondemand.com/app/dashboards#/view/Overview?_g=(filters:!((query:(match_phrase:(component_name:btp_m_insurance-srv)))))"
+}
